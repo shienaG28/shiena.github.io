@@ -1,0 +1,54 @@
+*{
+  margin:0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body{
+  background: #3B7080;
+}
+h1{
+  margin: 1.3em;
+  text-align: center;
+  color: white;
+  font-family: serif;
+  font-size: 2.3em;
+}
+.wrapper{
+  width: 800px;
+  margin: auto;
+  margin-top: 80px;
+}
+p{
+  font-size: 22px;
+  padding-bottom: .3em;
+  color: #666666;
+}
+.container{
+  padding: 5.3em;
+  background: white;
+  width: 100%;
+  box-shadow: 5px 5px 10px black;
+}
+.dol{
+  position: absolute;
+  color: white;
+  font-size: 15px;
+  font-weight: 400;
+  right: 20px;
+  top: 10px;
+}
+button{
+  position: relative;
+  color: white;
+  text-transform: uppercase;
+  font-size: 15px;
+  background: #ff7133;
+  border: none;
+  outline: none;
+  width: 100%;
+  padding: .6em;
+  margin:1.3em 0;
+}
+button:hover{
+  background: #ff4e00;
+}

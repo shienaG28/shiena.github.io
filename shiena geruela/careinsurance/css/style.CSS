@@ -1,0 +1,48 @@
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  margin: 1.3em;
+  background: #AFC2D5;
+}
+h1{
+  width: 100%;
+  background: #37392E;
+  color: white;
+  margin-top: 0;
+  margin-bottom: 1.3em;
+  padding: 0 1.3em;
+}
+.container{
+  width: 90%;
+  background: #CFFFB3;
+  padding: 1.3em;
+  margin: 1.3em auto;
+  margin-top: 3em;
+}
+.option{
+  border: 1px solid black;
+  padding: 1.3em;
+}
+.quote{
+  height: 5em;
+}
+button{
+  width: 100%;
+  padding: 1.3em;
+  font-size: 22px;
+  background: #8F3985;
+  outline: none;
+  border: none;
+  color: white;
+}
+button:hover{
+  background: #9a4d91;
+}
+.tag{
+  text-align: center;
+  font-size: 1.5em;
+  padding: 1.3em 0;
+}
